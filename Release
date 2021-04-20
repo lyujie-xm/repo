@@ -1,9 +1,9 @@
-Origin: 个人源
-Label: 个人源
+Origin: 轻悦
+Label: 轻悦
 Suite: stable
 Version: 1.7
 Codename: Tccpg
 Architectures: iphoneos-arm
 Components: main
-Description: 个人源
+Description: 轻悦
 
