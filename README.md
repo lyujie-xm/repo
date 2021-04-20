@@ -1,3 +1,2 @@
-# 糖醋丶炒排骨的插件源
-* 主页：apt.paigu.site
-* cydia源：apt.paigu.site
+# 轻悦
+* cydia源：https://lyujie-xm.github.io/repo/
