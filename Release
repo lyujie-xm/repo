@@ -1,9 +1,9 @@
-Origin: 排骨的个人源
-Label: 排骨的个人源
+Origin: 个人源
+Label: 个人源
 Suite: stable
 Version: 1.7
 Codename: Tccpg
 Architectures: iphoneos-arm
 Components: main
-Description: 排骨的个人源
+Description: 个人源
 
