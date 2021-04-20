@@ -33,3 +33,20 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 12.png
 Name: 激励视频跳过助手
 
+Package: com.zuimeibizhi
+Version: 1.1-1
+Architecture: iphoneos-arm
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/最美壁纸.deb
+Size: 113224
+MD5sum: 3baf4ac1d65edd9a58e2df2155609e5e
+SHA1: 6beb61a86a9201aa374a0a8c2675a18347aa32f2
+SHA256: de73736c53d78a587e75ae971d3a00ab2b78d34c13d614f71714646fb3f8a409
+Section: 插件
+Description: 最美壁纸解锁会员权限，解锁原创壁纸下载
+A12: 1
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 最美壁纸高级版
+
