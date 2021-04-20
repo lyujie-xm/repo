@@ -16,3 +16,20 @@ Author: creantan/P.Y.G
 Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
 Name: LookinLoader
 
+Package: com.jumpadvideo
+Version: 0.1-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/跳过激励视频.deb
+Size: 46860
+MD5sum: 29fcdf4ecc2282acd13e04e6a5bb34e2
+SHA1: 8cc041f02dec2d9596c0f181dfde7145980043d1
+SHA256: 5869519de6c12e61ebbcb8bed05c7aba5f47dc7a58b616dcb04fee36b3143ddd
+Section: 系统
+Priority: optional
+Description: 主要针对调用调用AVPlayer播放视频广告的各种小游戏，例如微信小游戏，支持BU、GDT开头的激励视频广告，更新为3DTouch启用插件功能
+A12: 1
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: 激励视频跳过助手
+
