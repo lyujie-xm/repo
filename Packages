@@ -1,15 +1,17 @@
-Package: com.qingyu.icontweak
+Package: com.qingyue.icontweak
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: WZteam
 Installed-Size: 500
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer
+Replaces: com.ichitaso.icontweak
 Filename: ./debs/com.qingyue.icontweak_1.0.5_iphoneos-arm.deb
-Size: 258902
-MD5sum: efa21ff145c2bcf82ed894e37df5dcf5
-SHA1: 76e71532c46930ea37bafb40d21e38bffac8c110
-SHA256: 4a2ea126b1b85415eb670b96dc57723d5cad0d49a3b697880ae74a204034d9a3
-Section: Tweaks
+Size: 230648
+MD5sum: f552884f6c60b3f96a467784ed4b2e06
+SHA1: 6c11e5462fa31d3729d4ffbbd44875ad59fff22d
+SHA256: 3a27af2a282580e5ffdb80bf809e7317a54fb527fda4393ae9cfdc3f08787201
+Section: 工具
 Description: 非常实用的应用管理工具
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 Author: ichitaso
