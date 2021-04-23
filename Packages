@@ -19,6 +19,26 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: FakeGPS定位修改大师
 Sponsor: 轻悦
 
+Package: com.qingyue.appsyncunified10
+Version: 90.0
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/com.qingyue.appsyncunified10_90.0_iphoneos-arm.deb
+Size: 88456
+MD5sum: b249ecd0b4398ebf9742d11745c91754
+SHA1: 2ccbbcf9e9980dc04f2a0c70f922b55725ec1016
+SHA256: afa2704ffca760e2f5e914ee2d1508eac495801c734b8844aff1903622679075
+Section: Tweaks
+Description: 关闭iOS App签名校验
+Author: Karen, Linus Yang
+Name: AppSync Unified 关闭签名
+Sponsor: 轻悦
+
 Package: com.qingyue.gpsmanager
 Version: 1.8.8
 Architecture: iphoneos-arm
@@ -92,6 +112,24 @@ Tag: purpose::extension, compatible_min::iosiOS10
 Author: CreatureSurvive
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: shuffle 设置归类/增强
+
+Package: com.qingyue.syspasswdxi
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.qingyue.syspasswdxi_1.0-2_iphoneos-arm.deb
+Size: 164650
+MD5sum: 428debc9282cc873597d3990f409c0c5
+SHA1: d4d80d04d00a99ddfe28733737ad3c1e0ee151b8
+SHA256: 37e49b73d0a0dec8cde0835b1885ea0c4f2cdf74a260fe80052c0debd0c9267a
+Section: Utilities
+Priority: standard
+Description: 系统密码修改 增强越狱后安全性
+Tag: role::enduser
+Author: 轻悦
+Name: SYSPasswdXI 系统密码
+Sponsor: 轻悦
 
 Package: com.qingyue.zuimeibizhi
 Version: 1.1-1
