@@ -135,11 +135,11 @@ Architecture: iphoneos-arm
 Maintainer: WZteam
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.qingyue.syspasswdxi_1.0-2_iphoneos-arm.deb
-Size: 164650
-MD5sum: 428debc9282cc873597d3990f409c0c5
-SHA1: d4d80d04d00a99ddfe28733737ad3c1e0ee151b8
-SHA256: 37e49b73d0a0dec8cde0835b1885ea0c4f2cdf74a260fe80052c0debd0c9267a
-Section: Utilities
+Size: 164648
+MD5sum: 68301f39ba13ee38b1aa5780fe8c8199
+SHA1: fba0f5cc1a59ef5bcf0151c14d5c680d43f02fdf
+SHA256: 5c9a38841a75635af8089ccf78d55bcd9a3cfd2c97f660c74e07fd3db37e24fd
+Section: System
 Priority: standard
 Description: 系统密码修改 增强越狱后安全性
 Tag: role::enduser
