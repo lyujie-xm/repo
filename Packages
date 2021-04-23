@@ -45,11 +45,12 @@ Architecture: iphoneos-arm
 Maintainer: 轻悦
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Filename: ./debs/com.qingyue.gpsmanager_1.8.8_iphoneos-arm.deb
-Size: 4130396
-MD5sum: 1d534e0efa6bd591000cb214dff31760
-SHA1: fccbbac4ea68cd716a4e963e3d6766ddd251455d
-SHA256: 0d035444ad213777b3064e7aa2d53805a39fb6af292dcb3790c41ae4fa5995c0
+Size: 4130450
+MD5sum: c63ac7c6386d9edf785c119e6c2ea435
+SHA1: c7c0452a665b2b7190dd779f0b6490db0a2501ae
+SHA256: dfada72af3ac218b40d576e5c931c1d9867d79d9d11c4efa0045018d039268be
 Section: ios13
+Description: 虚拟定位,随时随地定位修改打卡。
 Author: chencong & 7Loopy
 Name: GPSmanager-GPS定位管家破解版
 
@@ -91,6 +92,21 @@ Author: 轻悦
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 12.png
 Name: 激励视频跳过助手
+
+Package: com.qingyue.recoverypasswd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Filename: ./debs/com.qingyue.recoverypasswd_1.0_iphoneos-arm.deb
+Size: 988
+MD5sum: cf9b2037d4079ae5a147f6dfa6c72834
+SHA1: afd964654716ad07ff8ac82944838d77d8f1ffc7
+SHA256: 4231440f10ac91c90900fe67984b78b31f415eca20dfc0ad772cd450f0a8f661
+Section: System
+Description: 初始化 Terminal 和 SSH Root账户密码
+Author: Bicycle
+Name: RecoveryPW 密码初始化
+Sponsor: ABCydia
 
 Package: com.qingyue.shuffle
 Version: 1.1.3
