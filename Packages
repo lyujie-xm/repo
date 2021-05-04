@@ -166,3 +166,18 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 1.png
 Name: 最美壁纸高级版
 
+Package: qingyue.fonts.mwzt2
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/qingyue.fonts.mwzt2_2.8_iphoneos-arm.deb
+Size: 1364820
+MD5sum: fffe9bf7e6819c978b9a01ef79dc2a8a
+SHA1: d33d2b85460e389523ab3db5200d37e735a2b701
+SHA256: c0cdffb741a9cef42f0d6e2cc7a406e841fc8c2c8f985bbdd7e236a0816be812
+Section: Fonts
+Description: 盲文字体 自动识别iOS11~14系统安装 卸载后自动还原
+Author: 轻悦
+Name: 盲文字体(iOS11-14)
+
