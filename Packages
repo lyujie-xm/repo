@@ -172,10 +172,10 @@ Architecture: iphoneos-arm
 Maintainer: 轻悦
 Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/qingyue.fonts.mwzt2_2.8_iphoneos-arm.deb
-Size: 1364796
-MD5sum: ed67ad8b74872e006db9639c4f8dc434
-SHA1: 240fc3d5f58105c50405c79030694fc32ded2a23
-SHA256: 4b5223e254c1dea656fcf68974bca9a9f2b5c4d3c36d9cd34d80e3816114f66d
+Size: 1364424
+MD5sum: 27109a8abbfacedb88f86312c55df5b7
+SHA1: c64a4dd8d6d71ddda83ff587a719cd5a87e296e3
+SHA256: 75441add455322bf9d68f03b4c6bba8e4585a3200311a4de6c8290e7228dd192
 Section: Fonts
 Description: 盲文字体 自动识别iOS11~14系统安装 卸载后自动还原
 Author: 轻悦
