@@ -35,6 +35,24 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: FakeGPS定位修改大师
 Sponsor: 轻悦
 
+Package: cn.qingyue.snapper2
+Version: 2.5.9
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 1108
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper
+Filename: ./debs/cn.qingyue.snapper2_2.5.9_iphoneos-arm.deb
+Size: 472686
+MD5sum: f2666c0b8139ba6dfd5d5aa84fdbfe36
+SHA1: d56dfdc76548ed1245c6b8373ed685456995314b
+SHA256: c1091712a73ed274a28f5fc4ee6290bb07b9319433436ebf9e79ceaeb9876d39
+Section: Tweaks
+Description: 高级截图.自定义截图
+Author: Jonathan Winger Lang
+Name: Snapper2「智能截图破解版」
+Sponsor: 轻悦
+
 Package: com.qingyue.appsyncunified10
 Version: 90.0
 Architecture: iphoneos-arm
@@ -143,6 +161,22 @@ Author: 轻悦
 Name: SYSPasswdXI 系统密码
 Sponsor: 轻悦
 
+Package: com.qingyue.wechatnullinfo
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.qingyue.wechatnullinfo_1.1-1_iphoneos-arm.deb
+Size: 59472
+MD5sum: 8b8dab3724dc24471ec42050c5344bbf
+SHA1: 29354db5536dcf9c87808c79e1a65669903d6513
+SHA256: 55d08f1706522db7862ae6d0019526e7a180466334fd7bed945ddf6cdd264ccc
+Section: 微信
+Author: 7Loopy
+Name: WeChat NullInfo - 清除微信性别
+Sponsor: 轻悦
+
 Package: com.qingyue.zuimeibizhi
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -161,6 +195,37 @@ Author: 轻悦
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 1.png
 Name: 最美壁纸高级版
+
+Package: fun.qingyue.bigbangev
+Version: 5.0.1
+Architecture: iphoneos-arm
+Maintainer: EVAN
+Installed-Size: 6404
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/fun.qingyue.bigbangev_5.0.1_iphoneos-arm.deb
+Size: 2124236
+MD5sum: 7b6d4fed3b98fbfc719327d7d545a1e6
+SHA1: 9fc2755286d41363fe876b88635384fccd3bb95c
+SHA256: d93a2d5242e0c5d46684b4f01dbeb13475c6bb06eeedeced9bf04c364ae4005b
+Section: Tweaks
+Author: EVAN
+Name: BigBangEv
+
+Package: io.qingyue.wechatregiondiy
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 132
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/io.qingyue.wechatregiondiy_1.0-1_iphoneos-arm.deb
+Size: 8090
+MD5sum: 689033233f757c3fc18b58e179b0bfe8
+SHA1: 63c6a3ac28f5bd886774226bbca1731c1c98ad47
+SHA256: 80543850d5081136a02c6fcdf3d97f912dfc0d8cbb94e40af283a12b3c8a8b36
+Section: 微信
+Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
+Author: 轻悦
+Name: WeChatRegionDIY 微信地区自定义
 
 Package: qingyue.fonts.mwzt2
 Version: 2.8
