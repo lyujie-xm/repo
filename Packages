@@ -184,14 +184,13 @@ Maintainer: Nets
 Installed-Size: 520
 Depends: mobilesubstrate
 Filename: ./debs/com.qingyue.weibonoads_1.3-9_iphoneos-arm.deb
-Size: 205440
-MD5sum: dcfc5a76654a4c0ecadb3ec2ca5c18cd
-SHA1: a83cc67f5f6a0879429337f3e9a6b0ba1b9e400a
-SHA256: ce6ac7d6e81867c119f9fab408da3ec334c50a57c1afd8b53bad9d43cec12eb0
-Section: 一些破解、去广告等
+Size: 205412
+MD5sum: cddc7169b578b96a6f248f1c4a94ee20
+SHA1: 1a7a6f189711e6fd0ffd5abdf1e5f5c93eb7a0a8
+SHA256: 6ff04d1214d439efafd877c151dbd89a6767f30dddd0fdc65bd3fef12899008f
+Section: 去广告
 Author: Netskao
 Name: 微博/极速/国际NoAds
-Sponsor: 去广告
 
 Package: com.qingyue.zuimeibizhi
 Version: 1.1-1
