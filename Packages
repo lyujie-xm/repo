@@ -107,6 +107,22 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 12.png
 Name: 激励视频跳过助手
 
+Package: com.qingyue.prettyuppro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.qingyue.prettyuppro_0.0.1_iphoneos-arm.deb
+Size: 13170
+MD5sum: e3c564a3e90434816eb46acfa5b16da1
+SHA1: 010fca24054423f9b1a8921fb8c441b15972cd9b
+SHA256: 7c342cf305de866d1a4384a15979ee5d9208f31ddee1fc4a0a4a169d3f1c964b
+Section: 解锁
+Description: 解锁会员权限。
+Author: lenglengyu
+Name: PrettyUp视频美化Pro
+
 Package: com.qingyue.recoverypasswd
 Version: 1.0
 Architecture: iphoneos-arm
@@ -256,4 +272,19 @@ Section: Fonts
 Description: 盲文字体 自动识别iOS11~14系统安装 卸载后自动还原
 Author: 轻悦
 Name: 盲文字体(iOS11-14)
+
+Package: qingyue.videostarcrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 12.2), mobilesubstrate
+Filename: ./debs/qingyue.videostarcrack_1.1-1_iphoneos-arm.deb
+Size: 106468
+MD5sum: 9d92495417efe7aeb009506a065a0644
+SHA1: bc50787ed025b45b23983ec070f9a1bb91b6c54f
+SHA256: 2b4e318c2f6d3ca52466d8bcbefe2a04fd47c0155993489c89b134c99441b2d6
+Section: 解锁
+Description: Video Star解锁全功能
+Name: Video Star Crack
 
