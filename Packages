@@ -273,6 +273,54 @@ Description: 盲文字体 自动识别iOS11~14系统安装 卸载后自动还原
 Author: 轻悦
 Name: 盲文字体(iOS11-14)
 
+Package: qingyue.lightrickscrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/qingyue.lightrickscrack_1.1-1_iphoneos-arm.deb
+Size: 109164
+MD5sum: 8ceaebf438e4aa5f852fd95e7be91d2c
+SHA1: c8851cb104b4c0e95c52ab41a45142a4d113c82c
+SHA256: 8e4b2873c81f051b8798cc1638924ad4573cf9e5458590b9de3ce6c3d5addca7
+Section: 解锁
+Description: Lightricks应用七件套解锁全功能，七件套包括（Facetune2，Photoleap，Quickart，Lightleap，Beatleap，Videoleap，Motionleap）自行AppStore下载 2021.6.22
+Author: Netskao
+Name: Lightricks Crack
+
+Package: qingyue.routefakerx
+Version: 2.7-1k
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts: org.thebigboss.locationfaker8, org.thebigboss.locationchangerx, com.cunstuck.routefakerx
+Filename: ./debs/qingyue.routefakerx_2.7-1k_iphoneos-arm.deb
+Size: 825718
+MD5sum: d23452ad31c7869b6397422d10d2fd77
+SHA1: ec4c5408aac574b8055780a9a374e782b75ad981
+SHA256: 760535951600c22724144cdd1caddabeff28780d16173bd138f637027912f0d7
+Section: 定位
+Description: Herhangi bir Uygulamada Konumunuzu değiştirin.
+Author: CUNSTUCK
+Name: RouteFakerX
+
+Package: qingyue.syjlcrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/qingyue.syjlcrack_1.1-1_iphoneos-arm.deb
+Size: 105564
+MD5sum: 2629519972c27afac3d5835a977927dc
+SHA1: 3cf78c2dc57b0b46e4e4e9948c1a62824c47e698
+SHA256: 2c9a301a760332a625dd2c77604ab4da7ea07d0eccf50aa8aada8e9b88f69859
+Section: 解锁
+Description: 水印精灵解锁全功能，去除所有广告
+Author: Netskao
+Name: 水印精灵 Crack
+
 Package: qingyue.videostarcrack
 Version: 1.1-1
 Architecture: iphoneos-arm
