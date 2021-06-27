@@ -215,16 +215,13 @@ Maintainer: 轻悦
 Installed-Size: 340
 Depends: mobilesubstrate
 Filename: ./debs/com.qingyue.zuimeibizhi_1.1-1_iphoneos-arm.deb
-Size: 113228
-MD5sum: f02e2b806b1e4d755b23a4e59e93d1b4
-SHA1: ce48be2c298141bb8963fb5e5da4b7a97146262e
-SHA256: 67d3699d472aa2447ba39ee7e3a94e14f9f7b55353da901a4232a2446d10d882
-Section: Tweaks
+Size: 113170
+MD5sum: 641ceea6cc9c0be6c1f7ac42dd3500ae
+SHA1: cc7e4a7f8356a8cdd85255e00ca6d6c0925e9cb0
+SHA256: 9b21b5cbd9257ebe267add6f4063544d2eafeb0472bbb334e22b85b048f3d3d2
+Section: 解锁
 Description: 最美壁纸解锁会员权限，解锁原创壁纸下载
 A12: 1
-Author: 轻悦
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Icon2: 1.png
 Name: 最美壁纸高级版
 
 Package: fun.qingyue.bigbangev
@@ -257,6 +254,40 @@ Section: 微信
 Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
+
+Package: org.qingyue.xiaoxiaole
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Installed-Size: 477
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/org.qingyue.xiaoxiaole_1.0.4-2_iphoneos-arm.deb
+Size: 179986
+MD5sum: fa3e1d1744730beaf5a47446383584ca
+SHA1: b10c0e777bc8a9a7d3d3b8f9109ab825305c4ad0
+SHA256: 3181ecc32698ca5dcd5fa5013fd722ce47b75fa10fbfbba237c787d14e4e6126
+Section: 游戏
+Description: 1.点击“开启”按钮可以提升运气值，锁定小鸟颜色 2.“关闭” 取消锁定小鸟  游戏版本1.9.0左右
+Tag: purpose::extension
+Author: bb
+Dev: bb
+Name: 开心消消乐助手
+
+Package: qingyue.ddtcrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/qingyue.ddtcrack_1.1-1_iphoneos-arm.deb
+Size: 105316
+MD5sum: e3ea9f402dcf8d5ebd8a6a13fbbc0c7a
+SHA1: 2ef897ac735cb1cdc5406c22314aac38edcf1b5d
+SHA256: 1e81a15f2b687593f670d41469c174cfceafebfac2697e2bcf00fb88d97c56dc
+Section: 解锁
+Description: 抖斗图解锁全功能，包括展示面 2021.6.27
+Author: Netskao
+Name: 抖斗图 Crack
 
 Package: qingyue.fonts.mwzt2
 Version: 2.8
