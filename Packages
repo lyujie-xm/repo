@@ -63,10 +63,10 @@ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.yttxc
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/cn.qingyue.snowboardh_1.4.7~Beta4_iphoneos-arm.deb
-Size: 2363092
-MD5sum: d458b057dd53b325ac543313281e7b94
-SHA1: 09099f40f2b514df74d5a7355596048a13f2439b
-SHA256: 0ab12673406d7dedc986744ed4021fd42766b5e6a9eacbe87bb34b7a3f42cf87
+Size: 3955040
+MD5sum: 1eff6ca03aa04746003abade42eeac40
+SHA1: dfb759691c189072d47248f5250d07e3da23451a
+SHA256: 8655a3c4254bbc45b3bd09dd75c4a6bac252b6ae32bdb30d246b9464f13af49e
 Section: Tweaks
 Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
