@@ -56,20 +56,20 @@ Sponsor: 轻悦
 Package: cn.qingyue.snowboardh
 Version: 1.4.7~Beta4
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
+Maintainer: 轻悦
 Installed-Size: 12386
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.yttxcs.snowboard.settingsicons, cn.yttxcs.snowboard.proceduralwallpapers, cn.yttxcs.snowboard.masks,cn.yttxcs.snowboard, cn.yttxcs.snowboard.statusbar, cn.yttxcs.snowboard.respringextension, cn.yttxcs.snowboard.presetextension, cn.yttxcs.snowboard.pagedots, cn.yttxcs.snowboard.labels, cn.yttxcs.snowboard.fonts, cn.yttxcs.snowboard.effects, cn.yttxcs.snowboard.dock
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/cn.qingyue.snowboardh_1.4.7~Beta4_iphoneos-arm.deb
-Size: 2360300
-MD5sum: 81baa2e91a282d4c4931b52d19df5d05
-SHA1: bbd1036216c2703713473fc311d26a83623abd5f
-SHA256: cd44626fba53663b26b43911a1fe4243e4440947fb3e4d404b816146a6221913
-Section: tweaks
+Size: 2363092
+MD5sum: d458b057dd53b325ac543313281e7b94
+SHA1: 09099f40f2b514df74d5a7355596048a13f2439b
+SHA256: 0ab12673406d7dedc986744ed4021fd42766b5e6a9eacbe87bb34b7a3f42cf87
+Section: Tweaks
 Description: 滑雪板整合版,SnowBoard滑雪板主题平台
-Author: Spark & Dennis D. Bednarz <409774743@qq.com>
+Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
 Package: com.qingyue.appsyncunified10
