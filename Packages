@@ -53,6 +53,25 @@ Author: Jonathan Winger Lang
 Name: Snapper2「智能截图破解版」
 Sponsor: 轻悦
 
+Package: cn.qingyue.snowboardh
+Version: 1.4.7~Beta4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 12386
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.yttxcs.snowboard.settingsicons, cn.yttxcs.snowboard.proceduralwallpapers, cn.yttxcs.snowboard.masks,cn.yttxcs.snowboard, cn.yttxcs.snowboard.statusbar, cn.yttxcs.snowboard.respringextension, cn.yttxcs.snowboard.presetextension, cn.yttxcs.snowboard.pagedots, cn.yttxcs.snowboard.labels, cn.yttxcs.snowboard.fonts, cn.yttxcs.snowboard.effects, cn.yttxcs.snowboard.dock
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/cn.qingyue.snowboardh_1.4.7~Beta4_iphoneos-arm.deb
+Size: 2360300
+MD5sum: 81baa2e91a282d4c4931b52d19df5d05
+SHA1: bbd1036216c2703713473fc311d26a83623abd5f
+SHA256: cd44626fba53663b26b43911a1fe4243e4440947fb3e4d404b816146a6221913
+Section: tweaks
+Description: 滑雪板整合版,SnowBoard滑雪板主题平台
+Author: Spark & Dennis D. Bednarz <409774743@qq.com>
+Name: SnowBoard 滑雪板主题整合安装
+
 Package: com.qingyue.appsyncunified10
 Version: 90.0
 Architecture: iphoneos-arm
