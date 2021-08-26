@@ -35,24 +35,6 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: FakeGPS定位修改大师
 Sponsor: 轻悦
 
-Package: cn.qingyue.snapper2
-Version: 2.5.9
-Architecture: iphoneos-arm
-Maintainer: 轻悦
-Installed-Size: 1108
-Depends: mobilesubstrate, firmware(>=12.1)
-Conflicts: com.jontelang.snapper
-Filename: ./debs/cn.qingyue.snapper2_2.5.9_iphoneos-arm.deb
-Size: 472686
-MD5sum: f2666c0b8139ba6dfd5d5aa84fdbfe36
-SHA1: d56dfdc76548ed1245c6b8373ed685456995314b
-SHA256: c1091712a73ed274a28f5fc4ee6290bb07b9319433436ebf9e79ceaeb9876d39
-Section: Tweaks
-Description: 高级截图.自定义截图
-Author: Jonathan Winger Lang
-Name: Snapper2「智能截图破解版」
-Sponsor: 轻悦
-
 Package: cn.qingyue.snowboardh
 Version: 1.4.7~Beta4
 Architecture: iphoneos-arm
@@ -196,6 +178,22 @@ Author: 轻悦
 Name: SYSPasswdXI 系统密码
 Sponsor: 轻悦
 
+Package: com.qingyue.wechatjbdbypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.qingyue.wechatjbdbypass_1.0.1_iphoneos-arm.deb
+Size: 18028
+MD5sum: fd1b9df16ffa8b96421d37f24164bfa5
+SHA1: 346cd2f989b9775b91b5b574b00f72529c3b1a35
+SHA256: 8fd40d16f9fc5cea5d78b8cf7e3db7c5f10843d1b915d626d240c9dc3e95998e
+Section: 微信
+Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
+Author: 糖醋丶炒排骨
+Name: 微信JBDBypass
+
 Package: com.qingyue.wechatnullinfo
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -227,37 +225,6 @@ Section: 广告
 Author: Netskao
 Name: 微博/极速/国际NoAds
 
-Package: com.qingyue.zuimeibizhi
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: 轻悦
-Installed-Size: 340
-Depends: mobilesubstrate
-Filename: ./debs/com.qingyue.zuimeibizhi_1.1-1_iphoneos-arm.deb
-Size: 113170
-MD5sum: 641ceea6cc9c0be6c1f7ac42dd3500ae
-SHA1: cc7e4a7f8356a8cdd85255e00ca6d6c0925e9cb0
-SHA256: 9b21b5cbd9257ebe267add6f4063544d2eafeb0472bbb334e22b85b048f3d3d2
-Section: 解锁
-Description: 最美壁纸解锁会员权限，解锁原创壁纸下载
-A12: 1
-Name: 最美壁纸高级版
-
-Package: fun.qingyue.bigbangev
-Version: 5.0.1
-Architecture: iphoneos-arm
-Maintainer: EVAN
-Installed-Size: 6404
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/fun.qingyue.bigbangev_5.0.1_iphoneos-arm.deb
-Size: 2124236
-MD5sum: 7b6d4fed3b98fbfc719327d7d545a1e6
-SHA1: 9fc2755286d41363fe876b88635384fccd3bb95c
-SHA256: d93a2d5242e0c5d46684b4f01dbeb13475c6bb06eeedeced9bf04c364ae4005b
-Section: Tweaks
-Author: EVAN
-Name: BigBangEv
-
 Package: io.qingyue.wechatregiondiy
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -273,6 +240,26 @@ Section: 微信
 Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
+
+Package: jp.qingyue.reprovision
+Version: 0.6.2~release
+Architecture: iphoneos-arm
+Maintainer: Soh Satoh
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debs/jp.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 15957184
+MD5sum: ad309e2a006c50f32017107c5d8d799a
+SHA1: 1a0395c79494a48f95b5cfd7d91bbfa153bf7816
+SHA256: 31749987ce8f66361af38038c847d22695c92bb247f9c02af78afa41ced1b3a3
+Section: 插件
+Priority: optional
+Description: Re-sign applications on your device
+Author: Soh Satoh, Matt Clarke
+Dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision Reborn
 
 Package: org.qingyue.xiaoxiaole
 Version: 1.0.4-2
