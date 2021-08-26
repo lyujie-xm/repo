@@ -249,11 +249,11 @@ Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Filename: ./debs/jp.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 15957184
-MD5sum: ad309e2a006c50f32017107c5d8d799a
-SHA1: 1a0395c79494a48f95b5cfd7d91bbfa153bf7816
-SHA256: 31749987ce8f66361af38038c847d22695c92bb247f9c02af78afa41ced1b3a3
-Section: 插件
+Size: 15957146
+MD5sum: 3a27eb757be60e3b8d04c933e8fe91fe
+SHA1: 07a9d16fca714f73ad373ea7cd39bfe42b187637
+SHA256: b955eb8c205dae93114c448d04052951a51a5545278d779506b3376a9a51788b
+Section: Tweaks
 Priority: optional
 Description: Re-sign applications on your device
 Author: Soh Satoh, Matt Clarke
