@@ -241,6 +241,26 @@ Description: 按往常一样进入微信修改地区，输入你想要的内容�
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
 
+Package: jp.qingyue.reprovision
+Version: 0.6.2~release
+Architecture: iphoneos-arm
+Maintainer: Soh Satoh
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debs/jp.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 15957146
+MD5sum: 3a27eb757be60e3b8d04c933e8fe91fe
+SHA1: 07a9d16fca714f73ad373ea7cd39bfe42b187637
+SHA256: b955eb8c205dae93114c448d04052951a51a5545278d779506b3376a9a51788b
+Section: Tweaks
+Priority: optional
+Description: Re-sign applications on your device
+Author: Soh Satoh, Matt Clarke
+Dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision Reborn
+
 Package: org.qingyue.xiaoxiaole
 Version: 1.0.4-2
 Architecture: iphoneos-arm
