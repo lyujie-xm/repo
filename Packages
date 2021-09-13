@@ -54,20 +54,6 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
-Package: com.hk.font.lmyypro14
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hk.font.lmyypro14_1.0_iphoneos-arm.deb
-Size: 94624938
-MD5sum: 86d2f116f34733d7931a2576b448920d
-SHA1: 85990732e864f52a9f638669498bf5fd7823720a
-SHA256: e84f371e8cb24a7366e46c72065997ced41814c21e8f72e164fbcc1f57a96b65
-Section: 嗨-字体
-Description: 浪漫雅圆6字重中文(拾陆字)，SF Compact Rounded多字重动态英文(Alexman)。iOS11~14加入kupord定制的盲文。自动适应iOS11.x~14.x直装版字体，安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
-Author: 佚名
-Name: 浪漫雅圆Pro(iOS11~14)
-
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
@@ -107,6 +93,20 @@ Description: 关闭iOS App签名校验
 Author: Karen, Linus Yang
 Name: AppSync Unified 关闭签名
 Sponsor: 轻悦
+
+Package: com.qingyue.font.lmyypro14
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qingyue.font.lmyypro14_1.0_iphoneos-arm.deb
+Size: 96573076
+MD5sum: 2876c6a56d06ff71fd07756c925c6bde
+SHA1: 1d7a3bffb1d779b9c2a35942d8aa1a26f8739c2c
+SHA256: 4df06192aef8ae586d6b610f5edec48f1b5495ebc04e953f02a285b17a0e1fe8
+Section: 字体
+Description: 浪漫雅圆6字重中文(拾陆字)，SF Compact Rounded多字重动态英文(Alexman)。iOS11~14加入kupord定制的盲文。自动适应iOS11.x~14.x直装版字体，安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
+Author: 佚名
+Name: 浪漫雅圆Pro(iOS11~14)
 
 Package: com.qingyue.gpsmanager
 Version: 1.8.8
