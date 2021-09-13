@@ -108,6 +108,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Icon2: 12.png
 Name: 激励视频跳过助手
 
+Package: com.qingyue.libsparkapplist
+Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 404
+Filename: ./debs/com.qingyue.libsparkapplist_1.0.10_iphoneos-arm.deb
+Size: 55100
+MD5sum: af5ed7dc1763091c1a895204e43bcf68
+SHA1: 6ff1b6f3e5359e9eb7d2ee0051cfa8ab2dccb07a
+SHA256: 2b1dd28a42a4034a8ca602da5b3f9ddc4cafb2e380f70edff58b655d258c1dcb
+Section: 叉叉
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: libSparkAppList
+Sponsor: 轻悦
+
 Package: com.qingyue.prettyuppro
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -225,6 +243,26 @@ Section: 广告
 Author: Netskao
 Name: 微博/极速/国际NoAds
 
+Package: com.qingyue.xxacctoggle
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 280
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.cydiami.accelerator
+Conflicts: com.brend0n.xxacctoggle
+Filename: ./debs/com.qingyue.xxacctoggle_0.0.3-1_iphoneos-arm.deb
+Size: 71014
+MD5sum: d75f9640de96bcc7f72b420bb33377e3
+SHA1: 33b36f7f2dacda97e674e8becb0472fd755f8ed4
+SHA256: d7987114b5554e1afca91d3e9d7f5a1742fe2cdf588c41039ea4915af6d8dc40
+Section: 叉叉
+Description: 从桌面开启叉叉助手加速器
+Author: Brendon
+Name: xxAccToggle 叉叉加速启用
+Pushstar: 0
+Scs: 9
+Sponsor: 轻悦
+
 Package: io.qingyue.wechatregiondiy
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -240,6 +278,26 @@ Section: 微信
 Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
+
+Package: jp.qingyue.reprovision
+Version: 0.6.2~release
+Architecture: iphoneos-arm
+Maintainer: Soh Satoh
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debs/jp.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 15957180
+MD5sum: 3a272211e8d77baf204bd7737cd3b9bd
+SHA1: f9ae6d8085f25838347ddc4ebf6df5a3aadb7f6b
+SHA256: bb5b47e772507e3fee856a90b6d7ac2745fc2bd99c2145584f4202f4a507d26c
+Section: 插件
+Priority: optional
+Description: Re-sign applications on your device
+Author: Soh Satoh, Matt Clarke
+Dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision Reborn - 续签工具
 
 Package: org.qingyue.xiaoxiaole
 Version: 1.0.4-2
