@@ -54,6 +54,26 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
+Package: com.qingyue.accelerator
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Depends: firmware (>= 5.1)
+Conflicts: xx.plugin.accelerator
+Filename: ./debs/com.qingyue.accelerator_1.1.4_iphoneos-arm.deb
+Size: 1037646
+MD5sum: 06df0d07b4790e345927f9784367411e
+SHA1: ffc631bab48e4f3b181d0cbad07408368007cc30
+SHA256: 61812a0f1a9a99d18cd2ccc35af7d3667dcb17d4b85f3d36056051e131a30048
+Section: 叉叉
+Description: 叉叉加速器主程序
+Author: 叉叉助手
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: xxplugin 加速主程序
+Pushstar: 0
+Scs: 4
+Sponsor: 轻悦
+
 Package: com.qingyue.appsyncunified10
 Version: 90.0
 Architecture: iphoneos-arm
@@ -278,26 +298,6 @@ Section: 微信
 Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
-
-Package: jp.qingyue.reprovision
-Version: 0.6.2~release
-Architecture: iphoneos-arm
-Maintainer: Soh Satoh
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
-Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
-Filename: ./debs/jp.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 15957180
-MD5sum: 3a272211e8d77baf204bd7737cd3b9bd
-SHA1: f9ae6d8085f25838347ddc4ebf6df5a3aadb7f6b
-SHA256: bb5b47e772507e3fee856a90b6d7ac2745fc2bd99c2145584f4202f4a507d26c
-Section: 插件
-Priority: optional
-Description: Re-sign applications on your device
-Author: Soh Satoh, Matt Clarke
-Dev: Matt Clarke
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision Reborn - 续签工具
 
 Package: org.qingyue.xiaoxiaole
 Version: 1.0.4-2
