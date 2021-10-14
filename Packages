@@ -35,6 +35,27 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: FakeGPS定位修改大师
 Sponsor: 轻悦
 
+Package: cn.qingyue.reprovision
+Version: 0.6.2~release
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke
+Installed-Size: 23301
+Depends: firmware (>= 9.0)
+Conflicts: cn.qingyue.reprovisionzh
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/cn.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 14778864
+MD5sum: 8f0c27aef6f6ef372d2c9bacb88dd53a
+SHA1: 00c5dd80d400186a30df0010fec778aad1a49bd8
+SHA256: 0ab657fd9e66050a7fb469e796bea7ae8f268c0e4572e0b9fb27f640a4475762
+Section: Tweaks
+Description: 签名IPA软件
+Author: Soh Satoh, Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: ReProvision「签名工具汉化版」
+Sponsor: 轻悦
+
 Package: cn.qingyue.snowboardh
 Version: 1.4.7~Beta4
 Architecture: iphoneos-arm
@@ -159,6 +180,21 @@ Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Name: libSparkAppList
 Sponsor: 轻悦
+
+Package: com.qingyue.nfcwriterxcrack
+Version: 3.2-77+debug
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriterx
+Filename: ./debs/com.qingyue.nfcwriterxcrack_3.2-77+debug_iphoneos-arm.deb
+Size: 1320318
+MD5sum: e248711365e6a36b4567c2da22fce648
+SHA1: 0b5e469758d5a97b23cb81618a58717815b55fc7
+SHA256: be708fc34cc0f90662ed96830f5fbb7ece6b70fa11253184f3e689ef532f5551
+Section: NFC
+Author: Elias Limneos
+Name: NFCWriter XS Crack
 
 Package: com.qingyue.prettyuppro
 Version: 0.0.1
