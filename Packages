@@ -45,10 +45,10 @@ Conflicts: cn.qingyue.reprovisionzh
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
 Filename: ./debs/cn.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 14778864
-MD5sum: 8f0c27aef6f6ef372d2c9bacb88dd53a
-SHA1: 00c5dd80d400186a30df0010fec778aad1a49bd8
-SHA256: 0ab657fd9e66050a7fb469e796bea7ae8f268c0e4572e0b9fb27f640a4475762
+Size: 16300530
+MD5sum: e5d47883f5ce1be142bb852b6d60905d
+SHA1: f99f75ef3e5afc92b31d0231644cebee76027f92
+SHA256: c7826de5fc5c10f7fa20fed86f51df52adf2084fd3eaf843bdec680032174051
 Section: Tweaks
 Description: 签名IPA软件
 Author: Soh Satoh, Matt Clarke
@@ -188,13 +188,28 @@ Maintainer: Önder Azazi <onderazazi@hotmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin
 Conflicts: net.limneos.nfcwriterx
 Filename: ./debs/com.qingyue.nfcwriterxcrack_3.2-77+debug_iphoneos-arm.deb
-Size: 1320318
-MD5sum: e248711365e6a36b4567c2da22fce648
-SHA1: 0b5e469758d5a97b23cb81618a58717815b55fc7
-SHA256: be708fc34cc0f90662ed96830f5fbb7ece6b70fa11253184f3e689ef532f5551
-Section: NFC
+Size: 1320394
+MD5sum: ad9d6225d21b4b7c7521e0ea79cfd145
+SHA1: 10847bfb1eb3ff03d1e2bcaf193cf5d2c2fa4945
+SHA256: de93c54b701e5759cd4cc6617a673239fbabec21c8c4820f492cd0e2bca3746e
+Section: Tweaks
+Description: 激活iOS设备 NFC(近场通讯)功能
 Author: Elias Limneos
 Name: NFCWriter XS Crack
+
+Package: com.qingyue.nfcwriterxs.cn
+Version: 1.0-40
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: ./debs/com.qingyue.nfcwriterxs.cn_1.0-40_iphoneos-arm.deb
+Size: 10348
+MD5sum: 2cc80c23396585831900ae9f67e56130
+SHA1: 029dad7f9910ec26912416fbecfa845e874b0023
+SHA256: 90a540662e78a498b593c859c113db980b3a2f4c8f30dbba74dd357c9c57e1e7
+Section: Tweaks
+Author: Ball
+Name: NFCWriter XS简体中文包
 
 Package: com.qingyue.prettyuppro
 Version: 0.0.1
