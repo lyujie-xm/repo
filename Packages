@@ -75,6 +75,24 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
+Package: cn.qingyue.switchus
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 1353
+Depends: mobilesubstrate, firmware (>= 11.0), applist, ws.hbang.common (>= 1.11), preferenceloader
+Filename: ./debs/cn.yttxcs.switchus_2.0.3_iphoneos-arm.deb
+Size: 485858
+MD5sum: b699d4addb9efcb0a38a2dcaeb45cddd
+SHA1: 714620f11ada53e08278216272af9485218c1a27
+SHA256: 6a69eb139a3b4f816270a991a49e2c0aa7b3275c89992dfcf83ff5ab4987e96b
+Section: Tweaks
+Description: 后台选项卡下滑增强
+Author: SynnyG
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Switchus「后台切换增强」
+Sponsor: 轻悦
+
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
@@ -428,6 +446,22 @@ Section: 解锁
 Description: Lightricks应用七件套解锁全功能，七件套包括（Facetune2，Photoleap，Quickart，Lightleap，Beatleap，Videoleap，Motionleap）自行AppStore下载 2021.6.22
 Author: Netskao
 Name: Lightricks Crack
+
+Package: qingyue.qycrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: firmware (>= 12.4), mobilesubstrate
+Filename: ./debs/netskao.qycrack_1.1-1_iphoneos-arm.deb
+Size: 110302
+MD5sum: 78920cba19d9ef7cd6130eaf04883e2f
+SHA1: 3fd50ed65c942061573807055d54d8ffd8679c97
+SHA256: 14d02602784e41a028e8cd4406326fa50dfe4a38caa8e4011b47c5e5d54a9a1e
+Section: 解锁
+Description: 巧影解锁全功能
+Author: Netskao
+Name: 巧影 Crack
 
 Package: qingyue.routefakerx
 Version: 2.7-1k
