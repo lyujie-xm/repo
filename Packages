@@ -81,11 +81,11 @@ Architecture: iphoneos-arm
 Maintainer: 轻悦
 Installed-Size: 1353
 Depends: mobilesubstrate, firmware (>= 11.0), applist, ws.hbang.common (>= 1.11), preferenceloader
-Filename: ./debs/cn.yttxcs.switchus_2.0.3_iphoneos-arm.deb
-Size: 485858
-MD5sum: b699d4addb9efcb0a38a2dcaeb45cddd
-SHA1: 714620f11ada53e08278216272af9485218c1a27
-SHA256: 6a69eb139a3b4f816270a991a49e2c0aa7b3275c89992dfcf83ff5ab4987e96b
+Filename: ./debs/cn.qingyue.switchus_2.0.3_iphoneos-arm.deb
+Size: 395640
+MD5sum: 93ca04e4ba12adc0955aadaad41d31af
+SHA1: b76ef96a43c3fb3302948d7103b93cf90e025715
+SHA256: e9fe75142853fa6a9bbc8bf614376d5ff0d6a8dd0d52ad0fa7626b2ad9117cbe
 Section: Tweaks
 Description: 后台选项卡下滑增强
 Author: SynnyG
