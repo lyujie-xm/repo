@@ -75,24 +75,6 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
-Package: cn.qingyue.switchus
-Version: 2.0.3
-Architecture: iphoneos-arm
-Maintainer: 轻悦
-Installed-Size: 1353
-Depends: mobilesubstrate, firmware (>= 11.0), applist, ws.hbang.common (>= 1.11), preferenceloader
-Filename: ./debs/cn.qingyue.switchus_2.0.3_iphoneos-arm.deb
-Size: 395640
-MD5sum: 93ca04e4ba12adc0955aadaad41d31af
-SHA1: b76ef96a43c3fb3302948d7103b93cf90e025715
-SHA256: e9fe75142853fa6a9bbc8bf614376d5ff0d6a8dd0d52ad0fa7626b2ad9117cbe
-Section: Tweaks
-Description: 后台选项卡下滑增强
-Author: SynnyG
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Switchus「后台切换增强」
-Sponsor: 轻悦
-
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
@@ -111,26 +93,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: xxplugin 加速主程序
 Pushstar: 0
 Scs: 4
-Sponsor: 轻悦
-
-Package: com.qingyue.appsyncunified10
-Version: 90.0
-Architecture: iphoneos-arm
-Maintainer: WZteam
-Installed-Size: 732
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: ./debs/com.qingyue.appsyncunified10_90.0_iphoneos-arm.deb
-Size: 88456
-MD5sum: b249ecd0b4398ebf9742d11745c91754
-SHA1: 2ccbbcf9e9980dc04f2a0c70f922b55725ec1016
-SHA256: afa2704ffca760e2f5e914ee2d1508eac495801c734b8844aff1903622679075
-Section: Tweaks
-Description: 关闭iOS App签名校验
-Author: Karen, Linus Yang
-Name: AppSync Unified 关闭签名
 Sponsor: 轻悦
 
 Package: com.qingyue.font.lmyypro14
@@ -381,6 +343,38 @@ Section: 微信
 Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
+
+Package: netskao.documentscrack
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 12.2), mobilesubstrate
+Filename: ./debs/netskao.documentscrack_1.1-2_iphoneos-arm.deb
+Size: 107218
+MD5sum: c4f4099a36ce3fafbd095fdc18c63244
+SHA1: 9b35037e8e82b9a838d16e62a1f681bd9cada19f
+SHA256: 4450ef140cc1d1a88cc1bb10531b128d7ee4a91c021a7e1ad36aff2d45308008
+Section: 解锁
+Description: Documents解锁全功能
+Author: Netskao
+Name: Documents Crack
+
+Package: netskao.zmbzcrack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/netskao.zmbzcrack_1.1-4_iphoneos-arm.deb
+Size: 74874
+MD5sum: 437be90f3e19a483f2d96b92ae2b3f3f
+SHA1: 612b4495a1f80dc4e1586c2f22c04bf99828db07
+SHA256: 1598399f60830a9716edb5eb54ca43aa5a81999d6054acfff449e0da1f7fd575
+Section: 解锁
+Description: 最美壁纸解锁VIP壁纸和原创壁纸，解锁主题下载，去除启动广告，插入广告等
+Author: Netskao
+Name: 最美壁纸 Crack
 
 Package: org.qingyue.xiaoxiaole
 Version: 1.0.4-2
